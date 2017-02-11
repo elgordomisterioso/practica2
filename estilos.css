@@ -1,0 +1,33 @@
+h1{
+color:blue;
+font-family:Cooper Black;
+}
+
+p{
+color:red;
+}
+
+h2{
+color:yellow 
+	
+}
+
+body{
+background-color:#F2F5A8	
+}
+
+ul{
+	list-style-type:square;
+}
+
+li{
+	font-weight:bolder;
+}
+
+img{
+	width=700;
+}
+
+div{
+	text-align:center;
+}
